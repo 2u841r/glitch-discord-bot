@@ -1,0 +1,21 @@
+{
+  "name": "discord-supabase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-bengali-revised": "^2.0.2",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "moment-hijri": "^3.0.0",
+    "node-cron": "^3.0.3"
+  }
+}
